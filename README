@@ -7,5 +7,7 @@ Included:
 *  TestDir0 and TestDir1 which are directories with files for testing
 *  p2p.config which is a network configuration file for a network
 	with just two host nodes connected by a link (pipe).
+* server.config which is a configuration file for machine 1
+* socket.config2 which is a configuration file for machine 2
 
 
