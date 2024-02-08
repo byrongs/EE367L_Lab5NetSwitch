@@ -8,6 +8,6 @@
 * server.config which is a configuration file for machine 1 (change port numbers)
 * socket.config2 which is a configuration file for machine 2 (change port numbers)
 <p align="center">
-<img class="img-fluid" src="../img/client_server_diagram.png">
+<img class="img-fluid" src="../img/client_server_diagram.jpg">
 </p>
 
