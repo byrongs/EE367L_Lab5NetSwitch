@@ -1,4 +1,4 @@
-##Greetings possible ee367 future students, this is the lab client/server series!
+## Greetings possible ee367 future students, this is the lab client/server series!
 
 *  The software files for the network simulator "net367"
 	including the makefile       
