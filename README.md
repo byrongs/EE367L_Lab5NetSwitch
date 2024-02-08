@@ -9,6 +9,6 @@
 * socket.config2 which is a configuration file for machine 2 (change port numbers)
   
 
-<img class="img-fluid" src="../img/client_server2.png">
+
 
 
